@@ -1,2 +1,3 @@
-this is my mainpage
+My Self Simranjeet Kaur
+This is my mainfile.txt
 
